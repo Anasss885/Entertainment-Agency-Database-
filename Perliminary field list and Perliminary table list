@@ -1,0 +1,25 @@
+Perliminary Field List:
+-customer Id
+-customer name
+-customer phone num
+-engagment Id
+-engagment category
+-agent Id
+-cost amount 
+-entertainer Id
+-entertainer phone num
+-members Id
+-members rate
+
+
+
+Perliminary Table List:
+-Customers
+-Engagments
+-Agents
+-Musical Prefernces (Linkage table)
+-Entertainers
+-Entertainer members (Linkage table)
+-Musical style (View)
+-Entertainer Styles(Linkage table)
+-Members
